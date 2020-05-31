@@ -1,2 +1,3 @@
-console.log("Hello World!\n");
+//sample file
 
+console.log("Hello World!\n");
